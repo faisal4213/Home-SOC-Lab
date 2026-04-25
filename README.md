@@ -293,8 +293,8 @@ Aspiring SOC Analyst | Hyderabad, India
 
 Actively building hands-on blue team skills through real attack simulation, log analysis, and threat hunting in a home lab environment.
 
-📧 [Your Email]
-💼 [Your LinkedIn URL]
+📧 faisaljahagir2003@gmail.com
+💼 kedin.com/in/mohammed-faisal-jahangir
 🌍 Open to: SOC Analyst roles in Hyderabad, Remote, Gulf
 
 ---
